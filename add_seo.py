@@ -4,7 +4,7 @@ import re
 from datetime import datetime
 
 site_dir = 'site'
-base_url = 'https://ecommerce-scrape-iota.vercel.app' # I will tell them to update this
+base_url = 'https://ecommerce-scrape-opal.vercel.app' # I will tell them to update this
 
 # SEO Metadata to inject
 seo_tags = """
